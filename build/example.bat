@@ -1,0 +1,1 @@
+imageToText.exe plushie_lizard.png
